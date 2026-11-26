@@ -1,5 +1,4 @@
-# ReadMe
-# SI_DetyrëSeminari
+# SI_DetyrëSeminari.NR1
 
 ## RastStudimi: Pluralsight
 # Lënda: Sisteme Informacioni
